@@ -1,0 +1,74 @@
+@media screen and (max-width:992px){
+    .profile-photo{
+        width: 100%;
+    }
+    .info{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .container8{
+        width: 100%;
+    }
+    .item22{
+        margin: 20px 0;
+    }
+    .container7{
+        width: 100%;
+    }
+    .blog-item{
+        width: 100%;
+    }
+} 
+@media screen and (max-width:992px) and (min-width:768px){
+    .design,.item{
+        width: 50%;
+    }
+
+    .item{
+        margin-bottom: 10px;
+    }
+    .container9{
+        width: 70%;
+    }
+     
+} 
+@media screen and (max-width:767px){
+    .design,.item{
+        width: 100%;
+    }
+    .item{
+        margin-bottom: 10px;
+    }
+     .container9{
+        width: 90%;
+     }
+     .td1 input{
+        width: 200px;
+     }
+     .td2 input{
+        width: 200px;
+        margin-left: -410px;
+     }
+     .td2 p{
+        margin-left: -410px;
+     }
+     .td3 input{
+        width: 480px;
+     }
+} 
+   
+@media screen and (max-width:768px){
+    .watch1{
+        width: 100%;
+    }
+    .w2,.w3{
+        margin-inline: 0;
+    }
+    .portfolio .links{
+        margin-left: 1px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    
+    }
+} 
+ 
